@@ -1,0 +1,186 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+
+    font-family: 'Montserrat', sans-serif;
+
+
+}
+
+.center-caption {
+    top: 30%;
+    height: auto;
+    max-height: 120px;
+
+
+}
+
+.big-text {
+
+    color: white;
+    font-size: 36pt;
+    font-weight: 900;
+}
+.big-text-black {
+
+    
+    font-size: 36pt;
+    font-weight: 900;
+}
+
+.p-text {
+
+    font-size: 20pt;
+    text-align: justify;
+
+}
+
+.btn btn-warning {}
+
+.leaderbtn {
+
+    top: 30%;
+    max-height: 120px;
+
+
+
+
+}
+
+.spacer {
+
+    height: 10px;
+    background-color: dimgrey;
+}
+
+
+.spacer-about {
+
+    height: 250px;
+    background-color: black;
+    text-align: center;
+
+
+
+}
+
+.leader {
+
+
+    padding: 50px;
+    font-size: 36pt;
+    font-weight: 500;
+    color: white;
+
+
+}
+
+
+
+.two-box {
+
+    background-color: black;
+    padding: 50px;
+    padding-bottom: 50px;
+
+}
+
+.wuvher {
+
+    color: aliceblue;
+}
+
+.center-dist {
+
+    align-self: center;
+    color: aliceblue;
+    font-size: 16px;
+    overflow: hidden;
+}
+
+
+
+.foto-vico {
+
+    padding-top: 85px;
+    padding-butom: 50px;
+
+    width: 30%;
+    float: left;
+
+
+
+}
+
+
+.container {}
+
+.text-leader {
+
+    padding-left: 400px;
+    padding-top: 150px;
+    float: right;
+    align-self: center;
+    margin-right: 10px;
+
+
+
+
+}
+
+.spacer-leader {
+
+    height: 50px;
+    background-color: white;
+
+}
+
+.img-fluid{
+
+
+    padding-top: 85px;
+    padding-butom: 50px;
+
+    width: 50%;
+    float: left;
+    padding-bottom: 50px;
+}
+
+
+.footer {
+    float: left;
+    padding: 50px;
+    background-color: #2C3333;
+    width: 100%;
+    height: auto;
+    color: #FFF9D7;
+    text-align: center;
+ 
+
+}
+
+@media (max-width: 567px) {
+
+    .center-caption {
+
+        top: 5%;
+    }
+
+    .big-text {
+
+        font-size: 24pt;
+    }
+
+    .center-dist {
+
+        text-align: center;
+    }
+
+}
+
+
